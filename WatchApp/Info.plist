@@ -28,5 +28,7 @@
     </array>
     <key>NSMotionUsageDescription</key>
     <string>Record hand movement to test tasbeeh gestures on this Watch.</string>
+    <key>ITSAppUsesNonExemptEncryption</key>
+    <false/>
 </dict>
 </plist>
